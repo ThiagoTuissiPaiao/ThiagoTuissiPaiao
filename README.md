@@ -1,5 +1,5 @@
 - 👋 Olá, sou @ThiagoTuissiPaiao
 - 🎮 Apaixonado por jogos de FPS
-- 👀 Estou interessado na linguagem Python
+- 👀 Estou aprendendo a lingueagem de Python
 - 💻 Futuramente pretendo me ingressar na area de pentest
 - 📫 Como me alcançar: thiagotuissi100@gmail.com
