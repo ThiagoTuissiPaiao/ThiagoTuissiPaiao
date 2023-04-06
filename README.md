@@ -1,6 +1,6 @@
 - 👋 Olá, sou @ThiagoTuissiPaiao
 - 🎓 Cursando Sistemas de Informação - UNIFAFIBE
 - 🎮 Apaixonado por jogos de FPS
-- 👀 Estou aprendendo a lingueagem de Python
-- 💻 Futuramente pretendo me ingressar na area de pentest
+- 👀 Estou aprendendo as lingueagens de Python | HTML | CSS | JS
+- 💻 Futuramente pretendo me ingressar na area de PENTEST
 - 📫 Como me alcançar: thiagotuissi100@gmail.com
